@@ -1,0 +1,9 @@
+*.exe
+*.out
+*.txt
+
+.DS_Store
+.AppleDouble
+._*
+
+.vscode/
